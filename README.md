@@ -1,3 +1,4 @@
 - Oi, eu sou o Felipe, tenho 19 anos.
 - Estou interessado em aprender a programar e em fazer um estágio.
 - Atualmente estou aprendendo HTML, CSS, Javascrypt e python
+- Estou fazendo cursos na Alura.
